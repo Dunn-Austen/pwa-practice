@@ -4,22 +4,12 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <main className="App">
+      <div>
+        <p>Placeholder text</p>
+        <img alt='image of a pokeball' src='https://image.shutterstock.com/image-vector/september-23-2016-vector-icon-260nw-487367941.jpg' />
+      </div>
+    </main>
   );
 }
 

@@ -3,17 +3,32 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "pokeball-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
     },
     {
-      "src": "logo192.png",
+      "src": "pokeball-152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "pokeball-167.png",
+      "type": "image/png",
+      "sizes": "167x167"
+    },
+    {
+      "src": "pokeball-180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "pokeball-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "pokeball-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
